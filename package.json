@@ -1,0 +1,7 @@
+{
+    "name": "hello-world",
+    "version": "1.0.0",
+    "description": "A simple Node.js app that says Hello, World!",
+    "main": "index.js"
+  }
+  
